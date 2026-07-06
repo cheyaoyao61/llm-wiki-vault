@@ -50,11 +50,21 @@ SRC-001 将模型概括为供应链划分、配置和流程元素三个层次。
 
 SRC-002 的后部章节则将流程描述为 Level 1—4，其中第四层是企业自己的实施流程，而不是 SCOR 提供的统一标准内容。[来源:SRC-002，PDF第217页]
 
-因此本文采用以下解释：SCOR 提供标准化的上层流程层级，企业在落地时继续细化实施流程；不同资料对“是否把企业实施层算入 SCOR 层级”的口径不同。
+ASCM SCOR 14.0 聚焦行业中立的 Level 0—3，并明确要求采用 SCOR 改进供应链的组织至少扩展到 Level 4，以补充行业、组织、地点特定的流程、系统和实践。[外部核验:ASCM《SCOR Digital Standard 14.0》第v页，2026-07-06访问](https://www.ascm.org/globalassets/ascm_website_assets/docs/scor/intro-and-front-matter-scor-digital-standard-2025.pdf)
+
+因此，SCOR 提供标准化的上层流程层级，企业需要继续设计 Level 4 实施流程。SRC-001 的“三层”与 SRC-002 的“四层”主要是是否把企业实施层计入描述的口径差异。
 
 ## 覆盖边界
 
-SCOR 关注满足客户需求所需的端到端供应链活动。旧资料中“SCOR 不覆盖销售、研发和售后”等说法只适用于特定旧版本和流程边界，不应直接套用到 SCOR DS 14.0；新版已经增加 Order、Orchestrate、服务和循环供应链等内容。
+SCOR 14.0 覆盖从订单录入到回款的客户交互、从供应商的供应商到客户的客户之间的实物交易，以及从理解汇总需求到履行每个订单的市场交互，但并不描述所有业务活动。[外部核验:ASCM《SCOR Digital Standard 14.0》第v页，2026-07-06访问](https://www.ascm.org/globalassets/ascm_website_assets/docs/scor/intro-and-front-matter-scor-digital-standard-2025.pdf)
+
+ASCM 明确说明 SCOR 14.0 不覆盖：
+
+- 销售与营销，包括需求创造。
+- 产品开发。
+- 研究与开发。
+
+新增 `Order` 和 `Orchestrate` 扩展了订单、战略编排、数据、风险、网络设计等供应链管理活动，但不能据此推断销售营销、产品开发或研发已经纳入 SCOR。边界判断应以 ASCM 官方范围说明为准，而不是仅凭流程名称推演。
 
 ## 指标使用原则
 
